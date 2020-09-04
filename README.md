@@ -8,3 +8,6 @@ to clone the repo for the first time. You can use:
 **git pull origin master** 
 
 to retrieve the daily updates - it will just refresh your local repository.
+
+### Notebooks
+- 9/2/2020 - Class Session - if. . .else. . .elif
