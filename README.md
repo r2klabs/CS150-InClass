@@ -11,4 +11,5 @@ to retrieve the daily updates - it will just refresh your local repository.
 
 ### Notebooks
 - 9/2/2020 - Class Session - if. . .else. . .elif
-- 9/4/2020 - Class Session - while and combining control statements 
+- 9/4/2020 - Class Session - while and combining control statements
+- 9/7/2020 - Class Session - for loops, end keyword for print function, range function, intro to lists. 
