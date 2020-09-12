@@ -14,3 +14,4 @@ to retrieve the daily updates - it will just refresh your local repository.
 - 9/4/2020 - Class Session - while and combining control statements
 - 9/7/2020 - Class Session - for loops, end keyword for print function, range function, intro to lists. 
 - 9/9/2020 - Class Session - developed two programs for finding largest number and calculating MPG using various control structures
+- 9/11/2020 - Class Session - Finished modification to MPG program, looked at range function, f-strings, and the Decimal class
