@@ -17,3 +17,4 @@ to retrieve the daily updates - it will just refresh your local repository.
 - 9/11/2020 - Class Session - Finished modification to MPG program, looked at range function, f-strings, and the Decimal class
 - 9/14/2020 - Class Session - Introduced functions including the signature, return statement and default parameters
 - 9/16/2020 - Class Session - Looked at variable-length argument lists, using functions from class(methods), and how ? and the dir() function works.
+- 9/18/2020 - Class Session - Discussed scope, working with random numbers and various versions of imports.
