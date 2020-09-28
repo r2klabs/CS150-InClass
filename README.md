@@ -20,4 +20,5 @@ to retrieve the daily updates - it will just refresh your local repository.
 - 9/18/2020 - Class Session - Discussed scope, working with random numbers and various versions of imports.
 - 9/21/2020 - No Class
 - 9/23/2020 - Class Session - Introduced Lists and various ways to manipulate them.
-- 9/25/2020 - Class Session - Introduce list slicing and tuples.
+- 9/25/2020 - Class Session - Introduced list slicing and tuples.
+- 9/28/2020 - Class Session - Introduced **del**, enumerate(), sort(), sorted(),index(), and insert() functions for lists.
