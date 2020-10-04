@@ -23,3 +23,4 @@ to retrieve the daily updates - it will just refresh your local repository.
 - 9/25/2020 - Class Session - Introduced list slicing and tuples.
 - 9/28/2020 - Class Session - Introduced **del**, enumerate(), sort(), sorted(),index(), and insert() functions for lists.
 - 9/30/2020 - Class Session - Introduced several list functions as well as passing lists to functions.
+- 10/2/2020 - Class Session - Introduced List Comprehensions, Generator Expressions, and Filter.
