@@ -27,3 +27,4 @@ to retrieve the daily updates - it will just refresh your local repository.
 - 10/5/2020 - Class Session - Introduced Map, lambdas, Zip, and two-dimensional lists.
 - 10/7/2020 - Class Session - Discussed "bug" in list of lists with respect to copying and introduced dictionaries.
 - 10/9/20 - Class Session - Introduced Python Sets.
+- 10/12/20 - Class Session - Introduced NumPy including various ways to create NumPy arrays.
