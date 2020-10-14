@@ -28,3 +28,4 @@ to retrieve the daily updates - it will just refresh your local repository.
 - 10/7/2020 - Class Session - Discussed "bug" in list of lists with respect to copying and introduced dictionaries.
 - 10/9/20 - Class Session - Introduced Python Sets.
 - 10/12/20 - Class Session - Introduced NumPy including various ways to create NumPy arrays.
+- 10/14/20 - Class Session - continued with NumPy including generated arrays of specific values, reshaping, flat, broadcasting and universal functions.
