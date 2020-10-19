@@ -29,3 +29,5 @@ to retrieve the daily updates - it will just refresh your local repository.
 - 10/9/20 - Class Session - Introduced Python Sets.
 - 10/12/20 - Class Session - Introduced NumPy including various ways to create NumPy arrays.
 - 10/14/20 - Class Session - continued with NumPy including generated arrays of specific values, reshaping, flat, broadcasting and universal functions.
+- 10/16/20 - Class Session - continued with NumPy including shallow/deep copying, and reshaping.
+- 10/19/20 - Class Session - finished with NumPy including transposing, stacking, splitting, and saving.
