@@ -31,5 +31,7 @@ to retrieve the daily updates - it will just refresh your local repository.
 - 10/14/20 - Class Session - continued with NumPy including generated arrays of specific values, reshaping, flat, broadcasting and universal functions.
 - 10/16/20 - Class Session - continued with NumPy including shallow/deep copying, and reshaping.
 - 10/19/20 - Class Session - finished with NumPy including transposing, stacking, splitting, and saving.
-- 10/19/20 - Class Session - No files uploaded.
-- 10/23/20 - Class Session - Introduced Strings.
+- 10/21/20 - Class Session - No files uploaded.
+- 10/23/20 - Class Session - No files uploaded.
+- 10/26/20 - Class Session - Introduced Strings.
+- 10/28/20 - Class Session - Continued with Strings.
