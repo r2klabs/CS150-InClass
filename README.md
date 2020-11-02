@@ -35,3 +35,5 @@ to retrieve the daily updates - it will just refresh your local repository.
 - 10/23/20 - Class Session - No files uploaded.
 - 10/26/20 - Class Session - Introduced Strings.
 - 10/28/20 - Class Session - Continued with Strings.
+- 10/30/20 - Class Session - No files uploaded.
+- 11/2/20 - Class Session - Introduced working with files in Python.
