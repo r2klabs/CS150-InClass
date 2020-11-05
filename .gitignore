@@ -4,3 +4,6 @@ hitters.csv
 *.npy
 *.txt
 *.csv
+backup
+WorkingWithFiles.ipynb
+*.json
