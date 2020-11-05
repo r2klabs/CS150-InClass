@@ -2,3 +2,5 @@
 hitters.csv
 *.jpg
 *.npy
+*.txt
+*.csv
