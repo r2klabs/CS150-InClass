@@ -38,3 +38,4 @@ to retrieve the daily updates - it will just refresh your local repository.
 - 10/30/20 - Class Session - No files uploaded.
 - 11/2/20 - Class Session - Introduced working with files in Python.
 - 11/4/20 - Class Session - continued with working with files including an introduction to Pandas.
+- 11/18/20 - Class Session - PracticeProblem5, IPythonWidgets, hilbert.py
